@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Visual Studio Code settings
+.vscode/
+
+# Coverage folder
+coverage/
+
+# Log files
+*.log
